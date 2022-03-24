@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EconomicManagementAPP",
+    "\\EconomicManagementAPP\\bin",
+    "\\EconomicManagementAPP\\bin\\Debug",
+    "\\EconomicManagementAPP\\bin\\Release",
+    "\\EconomicManagementAPP\\Controllers",
+    "\\EconomicManagementAPP\\Views",
+    "\\EconomicManagementAPP\\Views\\AccountTypes",
+    "\\EconomicManagementAPP\\Views\\Home"
+  ],
+  "SelectedNode": "\\EconomicManagementAPP\\Controllers\\AccountTypesController.cs",
+  "PreviewInSolutionExplorer": false
+}
